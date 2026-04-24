@@ -1,0 +1,19 @@
+------------------------------------------
+            ELITE AUTOCARE                
+        PREMIUM VEHICLE SERVICE           
+------------------------------------------
+BILL NO: 5                    DATE: 2026-04-24
+CUSTOMER: JOHN
+CONTACT: 1234567890
+------------------------------------------
+DESCRIPTION               DETAILS        
+----------------------------------------
+Vehicle Type              Four Wheeler   
+Service Performed         Brake Overhauling
+Appointed Slot            11:00 AM - 01:00 PM
+Payment Method            Card           
+----------------------------------------
+TOTAL AMOUNT PAID         INR 45500.00
+------------------------------------------
+         THANK YOU - VISIT AGAIN!         
+------------------------------------------

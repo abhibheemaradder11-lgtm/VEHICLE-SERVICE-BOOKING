@@ -1,0 +1,19 @@
+------------------------------------------
+            ELITE AUTOCARE                
+        PREMIUM VEHICLE SERVICE           
+------------------------------------------
+BILL NO: 1                    DATE: 2026-04-24
+CUSTOMER: ABHI
+CONTACT: 6363384515
+------------------------------------------
+DESCRIPTION               DETAILS        
+----------------------------------------
+Vehicle Type              Four Wheeler   
+Service Performed         Brake Overhauling
+Appointed Slot            02:00 PM - 04:00 PM
+Payment Method            Card           
+----------------------------------------
+TOTAL AMOUNT PAID         INR 5000.00
+------------------------------------------
+         THANK YOU - VISIT AGAIN!         
+------------------------------------------

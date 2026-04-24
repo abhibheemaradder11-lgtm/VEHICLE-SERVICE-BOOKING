@@ -1,0 +1,19 @@
+------------------------------------------
+            ELITE AUTOCARE                
+        PREMIUM VEHICLE SERVICE           
+------------------------------------------
+BILL NO: 3                    DATE: 2026-04-24
+CUSTOMER: naina
+CONTACT: 8310483410
+------------------------------------------
+DESCRIPTION               DETAILS        
+----------------------------------------
+Vehicle Type              Two Wheeler    
+Service Performed         General Service
+Appointed Slot            09:00 AM - 11:00 AM
+Payment Method            Cash           
+----------------------------------------
+TOTAL AMOUNT PAID         INR 4500.00
+------------------------------------------
+         THANK YOU - VISIT AGAIN!         
+------------------------------------------
