@@ -3,15 +3,15 @@
         PREMIUM VEHICLE SERVICE           
 ------------------------------------------
 BILL NO: 1                    DATE: 2026-04-24
-CUSTOMER: ABHI
-CONTACT: 6363384515
+CUSTOMER: JOHN
+CONTACT: 1234567890
 ------------------------------------------
 DESCRIPTION               DETAILS        
 ----------------------------------------
 Vehicle Type              Four Wheeler   
-Service Performed         Brake Overhauling
-Appointed Slot            02:00 PM - 04:00 PM
-Payment Method            Card           
+Service Performed         Oil & Filter Change
+Appointed Slot            11:00 AM - 01:00 PM
+Payment Method            Cash           
 ----------------------------------------
 TOTAL AMOUNT PAID         INR 5000.00
 ------------------------------------------

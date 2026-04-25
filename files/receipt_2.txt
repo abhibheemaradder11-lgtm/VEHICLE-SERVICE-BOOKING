@@ -3,17 +3,17 @@
         PREMIUM VEHICLE SERVICE           
 ------------------------------------------
 BILL NO: 2                    DATE: 2026-04-24
-CUSTOMER: Mangala Gouri M S
-CONTACT: 8310483410
+CUSTOMER: SAM
+CONTACT: 1234567890
 ------------------------------------------
 DESCRIPTION               DETAILS        
 ----------------------------------------
 Vehicle Type              Two Wheeler    
-Service Performed         General Service
-Appointed Slot            09:00 AM - 11:00 AM
+Service Performed         Full Body Wash 
+Appointed Slot            02:00 PM - 04:00 PM
 Payment Method            UPI            
 ----------------------------------------
-TOTAL AMOUNT PAID         INR 45000.00
+TOTAL AMOUNT PAID         INR 4000.00
 ------------------------------------------
          THANK YOU - VISIT AGAIN!         
 ------------------------------------------
