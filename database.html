@@ -1,0 +1,17 @@
+USE elite_autocare;
+
+-- Insert 10 unique users (1 Admin, 9 Customers)
+INSERT INTO Users (full_name, email, phone, role, password) VALUES 
+('System Admin', 'admin@eliteautocare.com', '9900112233', 'admin', 'pbkdf2:sha256:admin_secure'),
+('Amit Hegde', 'amit.h@gmail.com', '9844112201', 'customer', 'pbkdf2:sha256:user_1'),
+('Sahana Patil', 'sahana.p@yahoo.com', '9844112202', 'customer', 'pbkdf2:sha256:user_2'),
+('Vikram Deshpande', 'vikram.d@outlook.com', '9844112203', 'customer', 'pbkdf2:sha256:user_3'),
+('Rohan Kulkarni', 'rohan.k@gmail.com', '9844112204', 'customer', 'pbkdf2:sha256:user_4'),
+('Priya Shinde', 'priya.s@rediff.com', '9844112205', 'customer', 'pbkdf2:sha256:user_5'),
+('Kiran Kumar', 'kiran.k@gmail.com', '9844112206', 'customer', 'pbkdf2:sha256:user_6'),
+('Deepa Nayak', 'deepa.n@gmail.com', '9844112207', 'customer', 'pbkdf2:sha256:user_7'),
+('Suresh Raina', 'suresh.r@test.com', '9844112208', 'customer', 'pbkdf2:sha256:user_8'),
+('Megha Bhat', 'megha.b@gmail.com', '9844112209', 'customer', 'pbkdf2:sha256:user_9');
+
+-- Verify Table 3.5.1
+SELECT * FROM Users;
